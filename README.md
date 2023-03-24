@@ -1,4 +1,4 @@
-# SimpleSort-Inference
+# CodeGenX
 
 Simple python-based model for code generation and fine-tuning
 
